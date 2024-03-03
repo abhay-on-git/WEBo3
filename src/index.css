@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:'display';
+    src: url('./fonts/ClashDisplay-Variable.woff2');
+}
+body{
+    font-family: display;
+}
+.radial-gradient1{
+    background-color: #616161;
+    opacity: 30%;
+    filter: blur(100px);
+}
+.radial-gradient2{
+    background-color: #F5952C;
+    opacity: 30%;
+    filter: blur(100px);
+}
+.backdropFilter{
+    background-color: black;
+    opacity: 0.1;
+    backdrop-filter: blur(100px);
+}
