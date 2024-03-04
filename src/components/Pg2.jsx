@@ -44,6 +44,67 @@ function Pg2() {
                 <h3 className='capitalize leading-[0.1vw]'>customers</h3>
             </div>
         </div>
+        <div className='text-white w-full pt-[4.5vw] h-[40vw]'>
+            <h1 className='text-[4.5vw] font-medium text-center'>Our happy Customers</h1>
+             <div className='flex items-center justify-between px-12 pt-40'>
+                   <div className='card p-5 relative w-[22vmax] h-[16vmax] rounded-2xl bg-gradient-to-b from-[#2b2b2dd0] to-[#3b3737c7] backdrop-blur-xl'>
+                     <div className='flex w-fit py-2 px-3 rounded-full gap-2 bg-[#161618e1] backdrop-blur-2xl absolute left-1/2 -translate-x-[50%] top-[-10%]'>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://plus.unsplash.com/premium_photo-1681426472026-60d4bf7b69a1?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+
+                     </div>
+                     <h1 className='text-[4vw] mt-10 leading-[2.5vw] flex items-center'>* * * * *</h1>
+                     <p className='text-[1vw]'>Lorem ipsum dolor sit amet elit. Eius quam aperiam quod omnis, Consequatur numquam pariatur voluptatem quis.</p>
+                     <h3 className='mt-5'>Founder of Rubix</h3>
+                   </div>
+                   <div className='card p-5 relative w-[22vmax] h-[16vmax] rounded-2xl bg-gradient-to-b from-[#2b2b2dd0] to-[#3b3737c7] backdrop-blur-xl'>
+                     <div className='flex w-fit py-2 px-3 rounded-full gap-2 bg-[#161618e1] backdrop-blur-2xl absolute left-1/2 -translate-x-[50%] top-[-10%]'>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://plus.unsplash.com/premium_photo-1681426472026-60d4bf7b69a1?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+
+                     </div>
+                     <h1 className='text-[4vw] mt-10 leading-[2.5vw] flex items-center'>* * * * *</h1>
+                     <p className='text-[1vw]'>Lorem ipsum dolor sit amet elit. Eius quam aperiam quod omnis, Consequatur numquam pariatur voluptatem quis.</p>
+                     <h3 className='mt-5'>Founder of Rubix</h3>
+                   </div>
+                   <div className='card p-5 relative w-[22vmax] h-[16vmax] rounded-2xl bg-gradient-to-b from-[#2b2b2dd0] to-[#3b3737c7] backdrop-blur-xl'>
+                     <div className='flex w-fit py-2 px-3 rounded-full gap-2 bg-[#161618e1] backdrop-blur-2xl absolute left-1/2 -translate-x-[50%] top-[-10%]'>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://plus.unsplash.com/premium_photo-1681426472026-60d4bf7b69a1?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+
+                     </div>
+                     <h1 className='text-[4vw] mt-10 leading-[2.5vw] flex items-center'>* * * * *</h1>
+                     <p className='text-[1vw]'>Lorem ipsum dolor sit amet elit. Eius quam aperiam quod omnis, Consequatur numquam pariatur voluptatem quis.</p>
+                     <h3 className='mt-5'>Founder of Rubix</h3>
+                   </div>
+                   <div className='card p-5 relative w-[22vmax] h-[16vmax] rounded-2xl bg-gradient-to-b from-[#2b2b2dd0] to-[#3b3737c7] backdrop-blur-xl'>
+                     <div className='flex w-fit py-2 px-3 rounded-full gap-2 bg-[#161618e1] backdrop-blur-2xl absolute left-1/2 -translate-x-[50%] top-[-10%]'>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+                        <div className='w-10 h-10 rounded-full overflow-hidden bg-slate-300'>
+                            <img className=' w-full h-full object-cover object-center' src="https://plus.unsplash.com/premium_photo-1681426472026-60d4bf7b69a1?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                        </div>
+
+                     </div>
+                     <h1 className='text-[4vw] mt-10 leading-[2.5vw] flex items-center'>* * * * *</h1>
+                     <p className='text-[1vw]'>Lorem ipsum dolor sit amet elit. Eius quam aperiam quod omnis, Consequatur numquam pariatur voluptatem quis.</p>
+                     <h3 className='mt-5'>Founder of Rubix</h3>
+                   </div>
+             </div>
+        </div>
         </div>
         </div>
     </div>
