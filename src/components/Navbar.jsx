@@ -2,7 +2,7 @@ import React from 'react'
 import { GoArrowUpRight } from "react-icons/go";
 function Navbar() {
   return (
-    <div className='w-full h-[7vw] flex items-center justify-between'>
+    <div className='w-full h-[7vw] flex items-center justify-between px-12'>
          <div className='logo'>
              <h1 className='text-[1.7vw] font-medium bg-gradient-to-r from-[#F242AC] to-[#F9A01E] text-transparent bg-clip-text'>WEo3</h1>
          </div>
